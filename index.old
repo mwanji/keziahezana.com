@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Keziah Ezana</title>
+<link rel="stylesheet" href="blueprint/screen.css" type="text/css" media="screen, projection">
+<link rel="stylesheet" href="blueprint/print.css" type="text/css" media="print">	
+<link href='http://fonts.googleapis.com/css?family=Lobster&subset=latin' rel='stylesheet' type='text/css'>
+<!--[if lt IE 8]><link rel="stylesheet" href="css/blueprint/ie.css" type="text/css" media="screen, projection"><![endif]-->
+<script type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US"></script>
+<style>
+  h1 {
+    font-family: 'Lobster', arial, serif;
+    font-size: 10em;
+    text-align: center;
+  }
+
+  body {
+    background: #fff url(background.jpg) center top no-repeat fixed;
+  }
+  
+  .container {
+    padding-left: 15px;
+  }
+</style>
+</head>
+
+
+<body>
+<div class="container">
+  <div class="span-24 last">
+    <!--img src="static/PA175049-cropped.JPG" width="1197" height="209"/-->
+    <h1>Keziah Ezana</h1>
+  </div>
+  <div class="span-12">
+    <h2>Stats</h2>
+    <ul>
+      <li>Born 10/12/2009 at 8:55 AM at <a href="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=rue+Wayez+35+Braine-l'Alleud,+Belgium&sll=50.68387,4.372859&sspn=0.023738,0.066047&ie=UTF8&hq=&hnear=Rue+Wayez+35,+Braine-l'Alleud+1420+Braine-l'Alleud,+Brabant+Wallon,+R%C3%A9gion+Wallonne,+Belgium&t=h&z=16">Braine-l'Alleud</a></li>
+      <li>Weight: 3.650 kg</li>
+      <li>Height: 51.5 cm</li>
+      <li>Head circumference: 35.5 cm (top 15%!)</li>
+      <li>Godparents: <a href="http://ch.linkedin.com/in/mducret">M&eacute;lanie Ducret</a> and <a href="http://pt.linkedin.com/in/mathieurichard">Mathieu Richard</a></li>
+    </ul>
+    <h2>Listes de naissance / Geboortelijsten</h2>
+    <ul>
+      <li><a href="yonah.html">Yonah</a> is a 7 year old boy from Malawi Keziah, Iris and Mwanji are sponsoring through Plan International. See Yonah's page for photos and to see how you can contribute to improving his life and his family's life.</li>
+      <li><a href="http://www.sebio.be/epages/62035976.sf/?ObjectPath=/Shops/62035976/Categories/%22Listes%20de%20Naissance%22/La_liste_de_Keziah">Sebio</a></li>
+      <li><a href="http://www.vanillefraise.be/?act=get&code=naissance&md=naissance&i=1994&m=5ca62430911bd5b827d5a7eb49daebcd">Vanille Fraise</a> (41-43 Avenue L&eacute;on Jourez, 1420 Braine-L'Alleud, Belgique)</li>
+    </ul>
+  </div>
+  <div class="span-2">&nbsp;</div>
+  <div class="span-10 last">
+    <h2>News</h2>
+    <script type="text/javascript">FB.init("c1ae6e0ebb62f82b36ca0819f68a59ea");</script><fb:fan profile_id="198610183686" stream="1" connections="10" width="300"></fb:fan><div style="font-size:8px; padding-left:10px"><a href="http://www.facebook.com/pages/Keziah-Ezana/198610183686">Keziah Ezana on Facebook</a> </div>
+    <object width="480" height="385" style="margin-top: 18px"><param name="movie" value="http://www.youtube.com/p/2B56BD43BDD4DD74&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/p/2B56BD43BDD4DD74&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" width="480" height="385" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+      <embed type="application/x-shockwave-flash" src="http://picasaweb.google.com/s/c/bin/slideshow.swf" width="400" height="267" flashvars="host=picasaweb.google.com&captions=1&noautoplay=1&hl=en_US&feat=flashalbum&RGB=0x000000&feed=http%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2Fmwanji%2Falbumid%2F5494173001172604593%3Falt%3Drss%26kind%3Dphoto%26hl%3Den_US" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed>
+
+      <embed type="application/x-shockwave-flash" src="http://picasaweb.google.com/s/c/bin/slideshow.swf" width="400" height="267" flashvars="host=picasaweb.google.com&captions=1&noautoplay=1&hl=en_US&feat=flashalbum&RGB=0x000000&feed=http%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2Fmwanji%2Falbumid%2F5464550933171526929%3Falt%3Drss%26kind%3Dphoto%26hl%3Den_US" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed>
+  </div>
+  <div class="span-24 last">
+  </div>
+  <!--div class="span-9 last">
+    <object width="480" height="385" style="margin-top: 18px"><param name="movie" value="http://www.youtube.com/p/2B56BD43BDD4DD74&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/p/2B56BD43BDD4DD74&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" width="480" height="385" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+
+    <embed type="application/x-shockwave-flash" src="http://picasaweb.google.com/s/c/bin/slideshow.swf" width="400" height="267" flashvars="host=picasaweb.google.com&captions=1&noautoplay=1&hl=en_US&feat=flashalbum&RGB=0x000000&feed=http%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2Fmwanji%2Falbumid%2F5494173001172604593%3Falt%3Drss%26kind%3Dphoto%26hl%3Den_US" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed>
+
+    <embed type="application/x-shockwave-flash" src="http://picasaweb.google.com/s/c/bin/slideshow.swf" width="400" height="267" flashvars="host=picasaweb.google.com&captions=1&noautoplay=1&hl=en_US&feat=flashalbum&RGB=0x000000&feed=http%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2Fmwanji%2Falbumid%2F5464550933171526929%3Falt%3Drss%26kind%3Dphoto%26hl%3Den_US" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed>
+    
+    <p>Older albums:<br/><a href="http://picasaweb.google.com/mwanji/Keziah2010Q1?feat=directlink">2010 Q1</a><br/><a href="http://picasaweb.google.com/mwanji/KeziahSFirstDays?feat=directlink">First days</a></p>
+  </div-->
+</div>
+</body>
+</html>
